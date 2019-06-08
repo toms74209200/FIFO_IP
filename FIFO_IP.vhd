@@ -64,7 +64,7 @@ GENERIC (
 begin
 
 -- ***********************************************************
---	Access busy flag
+--  Component connection
 -- ***********************************************************
 U_SCFIFO : scfifo
 GENERIC MAP (
